@@ -5,7 +5,7 @@ require 'google-apps-provision/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "google-apps-provision"
-  spec.version       = Google::Apps::Provision::VERSION
+  spec.version       = GoogleApps::Provision::VERSION
   spec.authors       = ["Daniel O'Connor"]
   spec.email         = ["daniel.o'connor@htw.com.au"]
   spec.description   = %q{TODO: Write a gem description}
