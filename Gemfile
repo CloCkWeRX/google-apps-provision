@@ -1,6 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem 'oauth'
-gem 'activesupport'
-gem 'i18n'
-
+# Specify your gem's dependencies in google-apps-provision.gemspec
+gemspec
