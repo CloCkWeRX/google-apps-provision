@@ -8,8 +8,14 @@ Gem::Specification.new do |spec|
   spec.version       = GoogleApps::Provision::VERSION
   spec.authors       = ["Daniel O'Connor"]
   spec.email         = ["daniel.o'connor@htw.com.au"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{A library for interacting with the Google Apps Provisioning API in Ruby.}
+  spec.summary       = %q{A library for interacting with the Google Apps Provisioning API in Ruby.
+
+See:
+http://code.google.com/googleapps/domain/gdata_provisioning_api_v2.0_developers_protocol.html
+
+Requires OAuth tokens. The `google-apps-tokens` script can assist with
+obtaining them.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
